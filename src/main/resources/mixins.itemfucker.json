@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.7.1",
+  "package": "com.github.raveninthedark.itemfucker.mixins",
+  "refmap": "mixins.itemfucker.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins" : [
+    "EntityItemMixin",
+    "GameRulesMixin"
+  ]
+}

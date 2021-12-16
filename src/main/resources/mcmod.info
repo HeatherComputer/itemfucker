@@ -1,0 +1,16 @@
+[
+{
+  "modid": "itemfucker",
+  "name": "Itemfucker",
+  "description": "Protection against item entity overflow.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RaVenInTheDark"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
