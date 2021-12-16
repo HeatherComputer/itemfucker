@@ -10,4 +10,4 @@ Itemfucker! A rather hacky pure-mixin mod that implements customisable overflow 
 
 `IF.itemMinimumLifetime` -- The minimum amount of time, in ticks, before an item entity can be deleted. Does not take affect if `IF.killAllItems` is `true`. *Default: `100`*
 
-Master branch will be left empty, check the other branches for each minecraft version.
+Master branch will be left empty, check the other branches for each minecraft version. MIT license applies to all versions.
