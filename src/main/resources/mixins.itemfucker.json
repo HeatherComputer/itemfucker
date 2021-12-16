@@ -1,0 +1,8 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "com.github.raveninthedark.itemfucker.mixin",
+    "mixins": ["EntityItemMixin", "GameRuleMixin"],
+    "refmap": "mixin.refmap.json",
+    "client": [],
+    "server": []
+  }
