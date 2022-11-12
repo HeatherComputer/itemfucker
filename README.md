@@ -8,6 +8,6 @@ Itemfucker! A rather hacky pure-mixin mod that implements customisable overflow 
 
 `IF.itemOverflowRange` -- The radius in blocks, including the item's own block, in which entities are searched for. Special-case behaviour when set to `1`, which matches the old version in that this would only count entities that are touching, rather than the same block. *Default: `2`*
 
-`IF.itemMinimumLifetime` -- The minimum amount of time, in ticks, before an item entity can be deleted. Does not take affect if `IF.killAllItems` is `true`. *Default: `100`*
+`IF.itemMinimumLifetime` -- The minimum amount of time, in ticks, before an item entity can be deleted. Does not take effect if `IF.killAllItems` is `true`. *Default: `100`*
 
 Master branch will be left empty, check the other branches for each minecraft version. MIT license applies to all versions.
